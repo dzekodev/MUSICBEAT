@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+    padding: 0;
+    margin: 0 auto;
+}
+.container{
+    background-color: #191919;
+    position: relative;
+    top: 46.5px;
+    left: 25px;
+    border-radius: 20px;
+    width: 95%;
+}
+.up-piece{
+    position: absolute;
+    top: 0;
+    right: 50%;
+    width: 350px;
+}
+h1{
+    color: #fff; 
+    font-family: 'Peddana', serif;
+    font-size: 30px;
+    letter-spacing: 10px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.Phasellus{
+     font-size: 60px;
+     padding-top: 60px;
+     padding-left: 70px;
+     font-family: 'Bangers', cursive;
+     color:#0066ff;
+     word-spacing: 10px;
+     font-weight: 900;
+}
+.est{
+    font-size: 60px;
+    padding-left: 70px;
+    font-family: 'Bangers', cursive;
+    color: rgb(255, 255, 255);
+}
+.para{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding-left: 70px;
+    padding-top: 10px;
+    width: 500px;
+}
+.btn{
+    margin-top: 20px;
+    color: #000;
+    background: #fff;
+    border-radius: 10px;
+    width:170px;
+    height: 40px;
+    margin-left: 70px;
+}
+.casque{
+    width: 450px;
+    position: absolute;
+    top: 10%;
+    right: 12%;
+}
+.profile{
+    width: 45px;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+.store{
+    position: absolute;
+    width: 30px;
+    top: 5%;
+    width: 50px;
+    right: 10%;
+}
